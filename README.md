@@ -1,3 +1,3 @@
 # TP-ICD
 
-[Backlog](https://github.com/users/Vinicius096/projects/1)
+[Backlog](https://github.com/Cogictor/TP-ICD/projects/2)
